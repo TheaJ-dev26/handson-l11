@@ -2,7 +2,10 @@
 
 ## Approach
 - Create S3 bucket, and create 2 folders in it: `raw` and `processed`. Download the Kaggle dataset and upload the `Amazon Sale Report.csv` into the `raw` folder.
-- Create an IAM role, set the service to Glue, and give the following permissions: AmazonS3FullAccess, AWSGlueConsoleFullAccess, AWSGlueServiceRole.
+- Create an IAM role, set the service to Glue, and give the following permissions:
+    - AmazonS3FullAccess
+    - AWSGlueConsoleFullAccess
+    - AWSGlueServiceRole.
 - Create Crawler in AWS Glue. Add data source, browsing S3 for the `raw` folder, create a Glue database, and choose it as the target database. Then run the Crawler
 - Open Athena console, browse S3 and select `processed` folder as the output location.
 
