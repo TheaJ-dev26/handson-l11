@@ -15,7 +15,7 @@
 <b>Crawler Cloudwatch</b>
 <img src="https://github.com/TheaJ-dev26/handson-l11/blob/main/images/Crawler_Cloudwatch.png">
 
-<b>Query 1</b>'
+<b>Query 1</b>
 
 ```
 SELECT * FROM handson-l11"."raw" limit 10;
