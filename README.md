@@ -1,4 +1,4 @@
-# handson-l11
+# Hands On L11
 
 <b>S3 Buckets</b>
 <img src="https://github.com/TheaJ-dev26/handson-l11/blob/main/images/S3_Buckets.png">
