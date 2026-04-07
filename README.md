@@ -1,10 +1,10 @@
 # handson-l11
 
-S3 Buckets
+<b>S3 Buckets</b>
 <img src="https://github.com/TheaJ-dev26/handson-l11/blob/main/images/S3_Buckets.png">
 
-IAM Roles
-<img src="https://github.com/TheaJ-dev26/handson-l11/blob/main/images/IAM_Roles.png">
+<b>IAM Roles</b>
+<img src="https://github.com/TheaJ-dev26/handson-l11/blob/main/images/IAM_Role.png">
 
-Crawler Cloudwatch
+<b>Crawler Cloudwatch</b>
 <img src="https://github.com/TheaJ-dev26/handson-l11/blob/main/images/Crawler_Cloudwatch.png">
